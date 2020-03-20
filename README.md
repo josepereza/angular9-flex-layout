@@ -1,6 +1,6 @@
 # Angular9GridLayout
-![imagen1](grid-layout1.png)
-![imagen1](grid-layout2.png)
+![imagen1](flex-layout1.png)
+![imagen1](flex-layout2.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
