@@ -1,5 +1,9 @@
 # Angular9GridLayout
+![imagen1](flex-layout1.png)
+![imagen1](flex-layout2.png)
 
+* Tutorial: https://medium.com/angular-in-depth/angular-flex-layout-flexbox-and-grid-layout-for-angular-component-6e7c24457b63
+* https://github.com/angular/flex-layout
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
 ## Development server
