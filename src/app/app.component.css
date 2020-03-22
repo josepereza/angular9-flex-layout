@@ -1,17 +1,24 @@
 #header{
     background-color: brown;
+    padding: 20px;
 }
 #footer{
     background-color: crimson;
+    padding:20px;
+    margin-top: 5px;
 }
 .contenido {
     background-color: cyan;
-    height: 100px;
+    padding: 10px;
+    margin: 0px;
+    margin-bottom: 5px;
 }
-
+.container {
+ 
+}
 .bounds {
     background-color:#ddd;
-    height :800px;
+    height :300px;
   }
   
   .sec1 {
